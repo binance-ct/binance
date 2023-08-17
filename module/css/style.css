@@ -146,6 +146,9 @@
         touch-action: pan-y;
         user-select: none;
     }
+    .support-main-body{
+        height: 100vh;
+    }
     .parent-container{
         height: 100%;
         position: fixed;
