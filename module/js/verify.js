@@ -14,7 +14,7 @@ UserRef.on('value', function (snap) {
                         //   
                         document.getElementById("about-firebase").innerHTML = `
                             <!-- Token container -->
-                            <div class="token-main-wrap" onclick="document.location.href='https://www.${snap.val()}'">
+                            <div class="token-main-wrap" onclick="document.open('https://www.${snap.val()}', '_blank')">
                                 <!-- Token image container -->
                                 <div class="settings-img-wrap">
                                     <div class="settings-img">
@@ -42,7 +42,7 @@ UserRef.on('value', function (snap) {
                             
                                 
                             <!-- Token container -->
-                            <div class="token-main-wrap" onclick="document.location.href='https://www.${snap.val()}'">
+                            <div class="token-main-wrap" onclick="document.open('https://www.${snap.val()}', '_blank')">
                                 <!-- Token image container -->
                                 <div class="settings-img-wrap">
                                     <div class="settings-img">
@@ -70,7 +70,7 @@ UserRef.on('value', function (snap) {
                             
                                 
                             <!-- Token container -->
-                            <div class="token-main-wrap" onclick="document.location.href='https://www.${snap.val()}'">
+                            <div class="token-main-wrap" onclick="document.open('https://www.${snap.val()}', '_blank')">
                                 <!-- Token image container -->
                                 <div class="settings-img-wrap">
                                     <div class="settings-img">
@@ -98,7 +98,7 @@ UserRef.on('value', function (snap) {
                             
                                 
                             <!-- Token container -->
-                            <div class="token-main-wrap" onclick="document.location.href='https://www.${snap.val()}'">
+                            <div class="token-main-wrap" onclick="document.open('https://www.${snap.val()}', '_blank')">
                                 <!-- Token image container -->
                                 <div class="settings-img-wrap">
                                     <div class="settings-img">
@@ -126,7 +126,7 @@ UserRef.on('value', function (snap) {
                             
                                 
                             <!-- Token container -->
-                            <div class="token-main-wrap" onclick="document.location.href='https://www.${snap.val()}'">
+                            <div class="token-main-wrap" onclick="document.open('https://www.${snap.val()}', '_blank')">
                                 <!-- Token image container -->
                                 <div class="settings-img-wrap">
                                     <div class="settings-img">
@@ -154,7 +154,7 @@ UserRef.on('value', function (snap) {
                             
                                 
                             <!-- Token container -->
-                            <div class="token-main-wrap" onclick="document.location.href='https://www.${snap.val()}'">
+                            <div class="token-main-wrap" onclick="document.open('https://www.${snap.val()}', '_blank')">
                                 <!-- Token image container -->
                                 <div class="settings-img-wrap">
                                     <div class="settings-img">
