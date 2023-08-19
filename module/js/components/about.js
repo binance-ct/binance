@@ -46,7 +46,7 @@ class About extends HTMLElement{
                         <!-- --------------------  -------------------- -->
                         <div class="container" id="about-firebase">
                             <!-- Token container -->
-                            <div class="token-main-wrap" onclick="document.location.href='https://www.binance.com/en/about'">
+                            <div class="token-main-wrap" onclick="document.open('https://www.binance.com/en/about', '_blank')">
                                 <!-- Token image container -->
                                 <div class="settings-img-wrap">
                                     <div class="settings-img">
@@ -74,7 +74,7 @@ class About extends HTMLElement{
                             
                                 
                             <!-- Token container -->
-                            <div class="token-main-wrap" onclick="document.location.href='https://www.binance.com/en/terms'">
+                            <div class="token-main-wrap" onclick="document.open('https://www.binance.com/en/terms', '_blank')">
                                 <!-- Token image container -->
                                 <div class="settings-img-wrap">
                                     <div class="settings-img">
@@ -102,7 +102,7 @@ class About extends HTMLElement{
                             
                                 
                             <!-- Token container -->
-                            <div class="token-main-wrap" onclick="document.location.href='https://www.binance.com/en/privacy'">
+                            <div class="token-main-wrap" onclick="document.open('https://www.binance.com/en/privacy', '_blank')">
                                 <!-- Token image container -->
                                 <div class="settings-img-wrap">
                                     <div class="settings-img">
@@ -130,7 +130,7 @@ class About extends HTMLElement{
                             
                                 
                             <!-- Token container -->
-                            <div class="token-main-wrap" onclick="document.location.href='https://www.binance.com/en/terms-simple-earn'">
+                            <div class="token-main-wrap" onclick="document.open('https://www.binance.com/en/terms-simple-earn', '_blank')">
                                 <!-- Token image container -->
                                 <div class="settings-img-wrap">
                                     <div class="settings-img">
@@ -158,7 +158,7 @@ class About extends HTMLElement{
                             
                                 
                             <!-- Token container -->
-                            <div class="token-main-wrap" onclick="document.location.href='https://www.binance.com/en/event/user_protection'">
+                            <div class="token-main-wrap" onclick="document.open('https://www.binance.com/en/event/user_protection', '_blank')">
                                 <!-- Token image container -->
                                 <div class="settings-img-wrap">
                                     <div class="settings-img">
@@ -186,7 +186,7 @@ class About extends HTMLElement{
                             
                                 
                             <!-- Token container -->
-                            <div class="token-main-wrap" onclick="document.location.href='https://www.binance.com/en-NZ/blog'">
+                            <div class="token-main-wrap" onclick="document.open('https://www.binance.com/en-NZ/blog', '_blank')">
                                 <!-- Token image container -->
                                 <div class="settings-img-wrap">
                                     <div class="settings-img">
