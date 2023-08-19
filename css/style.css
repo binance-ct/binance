@@ -111,7 +111,7 @@
     /* -------------------- other -------------------- */
         /* Box shadow */
         --display-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1), 0 3px 9px 0 rgba(0, 0, 0, 0.06);
-        --hex-width: 100px; 
+        --hex-width: 65px; 
         --hex-between: 5px;
         
         /* Other hexagon dimentions */
