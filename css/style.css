@@ -111,7 +111,7 @@
     /* -------------------- other -------------------- */
         /* Box shadow */
         --display-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1), 0 3px 9px 0 rgba(0, 0, 0, 0.06);
-        --hex-width: 65px; 
+        --hex-width: 95px; 
         --hex-between: 5px;
         
         /* Other hexagon dimentions */
@@ -646,6 +646,7 @@
     
     /* Hexagons */
     .hexagon-container {
+        margin: auto auto;
         display: grid;
         grid-template-columns: var(--hex-width) var(--hex-width) var(--hex-width);
         grid-auto-rows: calc(var(--hex-width) - 28.87px/2);
